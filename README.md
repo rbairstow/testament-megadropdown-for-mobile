@@ -130,5 +130,5 @@ You will see this:
     </ul>
   </div><!-- /dl-menuwrapper -->  
 ```
-    
-    click save when done + test the menu.
+
+Click save when done & test the menu
